@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import Routes from './routes/Routes';
 
 
-
+//No pude hacer el context con el todo list
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
@@ -16,6 +16,8 @@ root.render(
 
   <>
         <BrowserRouter>
+
+        
         <Routes />
         </BrowserRouter>
   </>

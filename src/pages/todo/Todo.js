@@ -9,7 +9,7 @@ import TodoProvider from '../../providers/TodoProvider';
 export const Todo = () => {
   return (
        <StyledContainer>
-    <h1>Todo List</h1> 
+    <h1>No pude hacer el todo list con el context</h1> 
     <TodoForm></TodoForm>
         <TareasListaContainer>
           <TodoProvider>
